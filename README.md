@@ -82,4 +82,4 @@ Para desplegar el proyecto ejecutar:
 
 **Client:** React
 
-**Server:** Node, Express, MongoDB
+**Server:** Node, Express, MySql (squalizer)
